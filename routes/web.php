@@ -4,7 +4,7 @@ use Illuminate\Support\Facades\Route;
 
 /*
 |--------------------------------------------------------------------------
-| Web Routes - 
+| Web Routes -
 |--------------------------------------------------------------------------
 |
 | Here is where you can register web routes for your application. These
@@ -15,4 +15,24 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
     return view('welcome');
+});
+
+Route::get('/contato', function () {
+    return view('contato');
+});
+
+Route::get('/alguns-comandos', function () {
+    return view('comandos');
+});
+
+Route::get('/sobre-mim', function () {
+    return view('sobre');
+});
+
+Route::get('/projetos-ativos', function () {
+    return view('projetosativos');
+});
+
+Route::get('/projetos-de-estudo', function () {
+    return view('projetosdeestudo');
 });
