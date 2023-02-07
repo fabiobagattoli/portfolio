@@ -19,9 +19,9 @@ jobs:
           password: ${{ secrets.ftp_password }}
           server-dir: domains/bagattoli.com.br/public_html/fabio/
 
-          exclude: '
-          - .git*
-          - .git*/**
-          - node_modules/**
-          - .htaccess
-          '
+          exclude: |
+          **/.git*
+          **/.git*/**
+          **/.htaccess*/**
+          **/node_modules/**
+          fileToExclude.txt
