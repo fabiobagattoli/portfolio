@@ -17,4 +17,4 @@ jobs:
           server: ${{ secrets.ftp_host }}
           username: ${{ secrets.ftp_user }}
           password: ${{ secrets.ftp_password }}
-          server-dir: public_html/fabio/
+          server-dir: home/u264234408/domains/bagattoli.com.br/fabio/
