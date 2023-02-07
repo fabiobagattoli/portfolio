@@ -18,3 +18,10 @@ jobs:
           username: ${{ secrets.ftp_user }}
           password: ${{ secrets.ftp_password }}
           server-dir: domains/bagattoli.com.br/public_html/fabio/
+
+          exclude: |
+          **/.git*
+          **/.git*/**
+          **/node_modules/**
+          fileToExclude.txt
+          **/.htaccess/**
