@@ -25,5 +25,6 @@ jobs:
     - **/.git/**
     - **/.git*/**
     - **/.github*/**
+    - **/.htaccess/**
     - **/.htaccess*/**
     '
