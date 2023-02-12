@@ -35,4 +35,4 @@ Route::get('/projetos-ativos', function () {
 
 Route::get('/projetos-de-estudo', function () {
     return view('projetosdeestudo');
-});
+}); 
