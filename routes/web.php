@@ -21,10 +21,6 @@ Route::get('/contato', function () {
     return view('contato');
 });
 
-Route::get('/alguns-comandos', function () {
-    return view('comandos');
-});
-
 Route::get('/sobre-mim', function () {
     return view('sobre');
 });
