@@ -59,15 +59,15 @@
             <div class="bg-animation"></div>
             <div class="info-holder">
                 <h6>Desenvolvedor web</h6>
-                <div class="bold-title">Fabio Bagattoli<br></div>
+                <div class="bold-title">Fábio Bagattoli<br></div>
                 <div class="mini-testimonials-slider">
                     <div>
                         <div class="details-holder">
                             <h4>Meus projetos ativos</h4>
                             <h5>Desde web-sites a sistemas de gestão.</h5>
                             <p>Meiweb.com.br - Software para empresas MEI</p>
-                            <p>Centerbusca.com.br - Classificados</p>
-                            <p>Bagattoli.com.br - Site da empresa do meu Pai</p>
+                            <p>Página de Classificados</p>
+                            <p>Bagattoli.com.br - Site para indústria têxtil</p>
                         </div>
                     </div>
                     
@@ -90,7 +90,7 @@
                         </div>
                         <div class="feature-details">
                             <p>No ano de 2008 iniciei minha carreira como técnico em informática. E em 2009 apreendi HTML e CSS por conta 
-                                prória, assistindo aulas online e já aplicando em projetos pessoais para testes.
+                                própria, assistindo aulas online e já aplicando em projetos pessoais para testes.
                             </p>
                             <p>Em 2010 fiz meu primeiro curso de Web-Design em uma escola de cursos profissionalizantes, e no ano seguinte 
                                 comecei a fazer Sites para pequenas empresas nos horários vagos.
@@ -101,9 +101,8 @@
                             </p>
 
                             <p>
-                                Desde 2010 trabalhei em Assistências de informática e em alguns períudos como autônomo, mas sempre praticando 
-                                com meus projetos web. E agora estou passando meus clientes para outras empresas, para mim trabalhar
-                                só com desenvolvimento web, mas como (CLT).
+                                Desde 2010 trabalhei em Assistências de informática e em alguns períodos como autônomo, mas sempre praticando 
+                                com meus projetos web.
                                 
                             </p>
                         </div>

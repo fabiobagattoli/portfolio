@@ -8,7 +8,7 @@
                             <div class="col-md-12">
                                    <div id="main-slider">
                                           <div class="slide domainsearch-slide">
-                                                 <div class="big-title">Portifólio desenvolvido com Laravel<br> Na versão 9.48.0 e (PHP v8.2.0)</div>
+                                                 <div class="big-title">Portfólio desenvolvido com Laravel<br> Na versão 9.19</div>
                                                  <div class="domain-search-holder">
                                                         <form class="" action="https://github.com/fabiobagattoli/portifolio.git" target="_blank" method="post">
                                 <span class="inline-button">
@@ -19,7 +19,7 @@
                                           </div>
 
                                           <div class="slide domainsearch-slide">
-                                                 <div class="big-title">Portifólio disponível para download no <br> GitHub</div>
+                                                 <div class="big-title">Portfólio disponível para download no <br> GitHub</div>
                                                  <div class="domain-search-holder">
                                                         <form class="" action="https://github.com/fabiobagattoli/portifolio.git" target="_blank" method="post">
                                 <span class="inline-button">

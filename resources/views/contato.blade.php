@@ -47,7 +47,7 @@
             <div class="col-md-4">
                 <div class="info-box">
                     <div class="info-title chat-icon">WhatsApp</div>
-                    <div class="info-details"><p><a href="https://api.whatsapp.com/send?1=pt_BR&phone=5547984288128">(47) 98428-8128</a></p>
+                    <div class="info-details"><p><a href="https://api.whatsapp.com/send?1=pt_BR&phone=5547997882371">(47) 99788-2371</a></p>
                 </div>
             </div>
         

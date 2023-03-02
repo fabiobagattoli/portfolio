@@ -36,7 +36,7 @@
                 <div class="article-summary">
                     <div class="article-img"><img src="assets/images/jbtextil.png" alt="" /></div>
                     <div class="article-title"><a href="https://www.bagattoli.com.br/" target="_blank">JB Têxtil: www.bagattoli.com.br</a></div>
-                    <div class="article-text">Site que desenvolvi para empresa do meu pai.
+                    <div class="article-text">Site que desenvolvi para Industria Têxtil.
                     </div>
                     <div class="article-links row">
                         <div class="col-xs-6">
@@ -66,7 +66,7 @@
                         </div>
                         <div class="col-xs-6">
                             <div class="readmore-holder">
-                                <a href="https://www.classificados/classificados/" target="_blank" class="ybtn ybtn-small ybtn-accent-color-text">Acessar site</a>
+                                <a href="https://www.meiweb.com.br/classificados/" target="_blank" class="ybtn ybtn-small ybtn-accent-color-text">Acessar site</a>
                             </div>
                         </div>
                     </div>
