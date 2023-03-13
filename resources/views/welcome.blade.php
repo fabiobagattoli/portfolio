@@ -106,10 +106,10 @@
                                                  </div>
                                                  <div class="feature-details">
                                           
-                                                        <p>HTML5</p>
-                                                        <p>CSS3</p>
-                                                        <p>Bootstrap</p>
-                                                        <p>JavaScript</p>
+                                                        <p>HTML5 - Iniciei em 2009</p>
+                                                        <p>CSS3 - Iniciei em 2009</p>
+                                                        <p>Bootstrap - Iniciei em 2014</p>
+                                                        <p>JavaScript - Iniciei em 2022</p>
                                                  </div>
                                           </div>
                                           <div class="feature-box feature-d2">
@@ -118,8 +118,8 @@
                                                         <span class="feature-title"> Minhas habilidades com Back End</span>
                                                  </div>
                                                  <div class="feature-details">
-                                                        <p>PHP Estruturado</p>
-                                                        <p>PHP OO</p>
+                                                        <p>PHP Estruturado - Iniciei em 2012</p>
+                                                        <p>PHP OO - Iniciei em 2020</p>
                                                  </div>
                                           </div>
                                           <div class="feature-box feature-d3">
@@ -128,10 +128,10 @@
                                                         <span class="feature-title"> Minhas habilidades com Banco de dados</span>
                                                  </div>
                                                  <div class="feature-details">
-                                                        <p>Mysql</p>
-                                                        <p>Sql Server</p>
-                                                        <p>Firebird</p>
-                                                        <p>PostgreSQL</p>
+                                                        <p>Mysql - Iniciei em 2012</p>
+                                                        <p>Sql Server - Iniciei em 2019</p>
+                                                        <p>Firebird - Iniciei em 2019</p>
+                                                        <p>PostgreSQL - Iniciei em 2019</p>
                                                  </div>
                                           </div>
                                           <div class="feature-box feature-d4">
@@ -140,7 +140,7 @@
                                                         <span class="feature-title"> Minhas habilidades com Framework</span>
                                                  </div>
                                                  <div class="feature-details">
-                                                        <p>Laravel</p>
+                                                        <p>Laravel - Iniciei em 2022</p>
                                    
                                                  </div>
                                           </div>
@@ -150,8 +150,8 @@
                                                         <span class="feature-title">Minhas habilidades com Projetos</span>
                                                  </div>
                                                  <div class="feature-details">
-                                                        <p>Desenvolvimento de web sites</p>
-                                                        <p>Desenvolvimento de softwares</p>
+                                                        <p>Desenvolvimento de web sites - Iniciei em 2010</p>
+                                                        <p>Desenvolvimento de softwares - Iniciei em 2012</p>
                                                  
                                                  </div>
                                           </div>
