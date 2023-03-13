@@ -119,7 +119,7 @@
                                                  </div>
                                                  <div class="feature-details">
                                                         <p>PHP Estruturado - Iniciei em 2012</p>
-                                                        <p>PHP OO - Iniciei em 2020</p>
+                                                        <p>PHP OO - Iniciei em 2022</p>
                                                  </div>
                                           </div>
                                           <div class="feature-box feature-d3">
